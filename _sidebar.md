@@ -1,4 +1,4 @@
-* [Home](/)
+* [Home](README.md)
 
 * [Adding Water](addingWater.md)
     
@@ -28,6 +28,6 @@
     * [Layer Renderer](layerRendererCS.md)
     * [Rain](rainCS.md)
     * [Utils](utilsCS.md)
-    
+
 * [FAQ](FAQ.md)
 
