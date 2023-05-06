@@ -1,7 +1,7 @@
 
 * [Contact](README.md)
 
-* [Adding Water](addingWater.md)
+* [Adding Water](addingWater/addingWater.md)
     
 * [Demo Scenes](demoScenes/demoScenes.md)
 
