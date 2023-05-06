@@ -29,5 +29,5 @@
     * [Rain](rainCS.md)
     * [Utils](utilsCS.md)
 
-* [FAQ][fAQ.md]
+* [FAQ](FAQ.md)
 
