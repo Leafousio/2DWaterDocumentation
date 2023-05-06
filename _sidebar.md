@@ -1,7 +1,7 @@
 
 * [Contact](README.md)
 
-* [Adding Water](addingWater/addingWater.md)
+* [Adding Water](addingWater.md)
     
 * [Demo Scenes](demoScenes/demoScenes.md)
 
@@ -13,7 +13,7 @@
 
 * [Debugging](debugging/debugging.md)
 
-* [Scripting](scripting/modernWater2D.md)
+* [Scripting](scripting/scripting.md)
     * [Water](scripting/water/water.md)
         * [Water Script](scripting/water/waterCS.md)
         * [Water Editor](scripting/water/waterEditorCS.md)
