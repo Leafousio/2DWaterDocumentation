@@ -9,6 +9,17 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css" />
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
 
+  <style>
+  
+  .image {
+    text-align : left;
+  }
+
+  .content {
+  overflow: auto;
+  }
+
+  </style>
 </head>
 
 <body>
@@ -26,9 +37,12 @@
     alias: {
       '/.*/_sidebar.md': '/_sidebar.md',
     },
+    
+    nativeEmoji: true,
     relativePath: true,
     loadSidebar: true,
-    subMaxLevel: 3
+    subMaxLevel: 6,
+    externalLinkTarget: '_blank'
   }
 </script>
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
@@ -36,7 +50,9 @@
 <!-- plugins -->
 <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 
+
 <!-- Docsify v4 -->
 <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 </body>
 </html>
+
