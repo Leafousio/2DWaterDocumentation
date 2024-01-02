@@ -125,6 +125,16 @@ for 2d games.
 
 ## Adding Reflections
 
+--- 
+
+#### Step-0 Texture settings
+
+!> To create reflections, you must **make sprite textures** that will be visible in water **readable** :
+
+![logo](addingWater/1.png ':size=600')
+
+---
+
 ?> There two main types of reflections : 
 
 - **Top Down Reflections** (they reflect every sprite in the water pool)
