@@ -13,4 +13,3 @@ If you have any problems or you don't understand something in the docs, you can 
 
 - quick fixes 
 
-### Invite Link : https://discord.gg/GTBNdFg7hW <!-- {docsify-ignore} -->
